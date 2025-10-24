@@ -1,6 +1,9 @@
 # MIDI_in_Sniffer
 MSDOS compatible program coded in Borland C to test your vintage PC's MIDI in capability through gameport pin 15.
 
+<img width="1440" height="1080" alt="screenshotv0 3" src="https://github.com/user-attachments/assets/254eb4b1-b24c-4e90-821d-1d693712e717" />
+
+
 ## Hardware required
 * Vintage PC that can run MSDOS
 * A 15-pin gameport like the ones on Sound Blaster
